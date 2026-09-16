@@ -39,6 +39,8 @@
 
 ---
 
+> **Learning note:** This fork is for Lisya to learn Open Code Review (OCR) tool use — how to wire up an AI code review CLI, configure a model endpoint, run diff and full-file reviews, and integrate the tool into a CI pipeline.
+
 ## What is Open Code Review?
 
 Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code review assistant — over the past two years, it has served tens of thousands of developers and identified millions of code defects. After thorough validation at massive scale, we incubated it into an open source project for the community. Simply configure a model endpoint to get started.
